@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Modified version of the getting started from the selenium-python docs
+# https://selenium-python.readthedocs.io/getting-started.html#simple-usage
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
